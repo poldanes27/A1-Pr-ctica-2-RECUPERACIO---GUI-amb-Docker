@@ -1,0 +1,1 @@
+Este commit representa tareas de limpieza y ajustes menores.
